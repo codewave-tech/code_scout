@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "code_scout",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "debug",
+            "program": "codescout_logging_tool/lib/main.dart"
+            
+           
+        },
+        {
+            "name": "code_scout (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "code_scout (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "codescout_logging_tool",
+            "cwd": "codescout_logging_tool",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "codescout_logging_tool (profile mode)",
+            "cwd": "codescout_logging_tool",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "codescout_logging_tool (release mode)",
+            "cwd": "codescout_logging_tool",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

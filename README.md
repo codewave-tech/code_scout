@@ -2,6 +2,8 @@
 
 CodeScout is a versatile logging solution for Flutter applications, designed to facilitate debugging during development and provide valuable insights post-development through a desktop application using sockets. This logger is particularly useful for QA teams, allowing them to monitor logs related to network API calls, analytics, and other crucial information without requiring a debug connection.
 
+![CodeScout Demo](docs/code_scout.gif)
+
 ## Features
 
 - Configurable logging levels
