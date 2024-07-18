@@ -112,5 +112,3 @@ The `CodeScoutLoggingConfiguration` class allows you to customize the logging be
 ## Note
 
 Ensure that sensitive information is not logged in production environments. Always review and sanitize logs before sharing or storing them.
-
-Would you like me to elaborate on any specific part of the documentation?
